@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "887873147290",
+    "firebase_url": "https://booksfjn01.firebaseio.com",
+    "project_id": "booksfjn01",
+    "storage_bucket": "booksfjn01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887873147290:android:93fea75a6b508cb047aa23",
+        "android_client_info": {
+          "package_name": "br.com.brunom.books"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887873147290-oov1q9l1f83f77vunqds088k6qpgf2qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.brunom.books",
+            "certificate_hash": "e4a2c6bfd69658b709e9026928bd8dbf6baa4764"
+          }
+        },
+        {
+          "client_id": "887873147290-6k8rb8hve4qgs95m1b0ud2uvc8eilrfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQ0uaPOxov4SEVxfA2Sz-iI-sLU2M89I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887873147290-6k8rb8hve4qgs95m1b0ud2uvc8eilrfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
